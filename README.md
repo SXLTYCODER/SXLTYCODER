@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SXLTYCODER
+- 👋 Hi, I’m @aaryan
 - 👀 I’m interested in learning full stack development 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
